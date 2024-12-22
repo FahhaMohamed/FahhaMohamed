@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="color:#4e73df;">Hi 👋, I'm Mohamed Fahham</h1>
-<h3 align="center" style="color:#1cc88a;">A Passionate Mobile App Developer & Full-Stack Developer from Sri Lanka</h3>
+<h3 align="center" style="color:#1cc88a;">A Passionate Mobile App Developer & Full-Stack Web Developer from Sri Lanka</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=fahhamohamed&label=Profile%20views&color=0e75b6&style=flat" alt="fahhamohamed" />
