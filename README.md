@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Currently Working On:
-- [**News Scraper API**](https://github.com/FahhaMohamed/news-scraper-api.git) - A powerful tool for scraping the latest news from multiple sources.
+- [**Smart Hospital System Backend**](https://github.com/FahhaMohamed/smart-hospital-system.git) - A powerful tool for scraping the latest news from multiple sources.
 
 ---
 
