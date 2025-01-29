@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Currently Working On:
-- [**Smart Hospital System Backend**](https://github.com/FahhaMohamed/smart-hospital-system.git) - A powerful tool for scraping the latest news from multiple sources.
+- [**Smart Hospital System**](https://github.com/FahhaMohamed/smart-hospital-system.git) - A Backend development for Smart hospital system.
 
 ---
 
