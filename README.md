@@ -10,12 +10,12 @@
 ---
 
 ### 🔭 Currently Working On:
-- [**Smart Hospital System**](https://github.com/FahhaMohamed/smart-hospital-system.git) - A Backend development for Smart hospital system.
+- [**Ecommerce-Microservices-Backend**](https://github.com/FahhaMohamed/MicroService-Ecommerce-Backend.git) - Scalable E-Commerce Backend built with ASP.NET and Microservices Architecture.
 
 ---
 
 ### 🌱 Learning:
-- **Backend Development** with .NET Core Web API and Node.js REST API to enhance my server-side skills.
+- **Backend Development** with ASP.NET Core Web API and Node.js REST API to enhance my server-side skills.
 
 ---
 
