@@ -30,7 +30,7 @@
 ---
 
 ### 📄 Check My Resume:
-- [Download My Resume](https://drive.google.com/file/d/1bhZlKIGbZP19hWB-OhUZh_EoS_oAWgEQ/view?usp=drive_link)
+- [Download My Resume](https://drive.google.com/file/d/10KEhx6VcQWxknRzQIAuedwWyUONLcgb-/view?usp=drivesdk)
 
 ---
 
