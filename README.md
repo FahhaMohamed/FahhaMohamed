@@ -10,17 +10,23 @@
 ---
 
 ### 🔭 Currently Working On:
-- [**Ecommerce-Microservices-Backend**](https://github.com/FahhaMohamed/MicroService-Ecommerce-Backend.git) - Scalable E-Commerce Backend built with ASP.NET and Microservices Architecture.
+- [**Smart-Herbicide-Advisor Mobile App**](https://github.com/FahhaMohamed/Smart-Herbicide-Advisor.git) - A Flutter-based mobile application that uses AI/ML to provide smart herbicide recommendations for crops.
 
 ---
 
 ### 🌱 Learning:
-- **Backend Development** with ASP.NET Core Web API and Node.js REST API to enhance my server-side skills.
+- **Advanced Node.js** backend development and REST APIs
+- **Advanced .NET** Web API and microservices architecture
+- **DevOps** practices with **Docker** and **AWS**
+- **Distributed systems** and search engine architecture
+- **Next.js** for modern React applications and SSR
 
 ---
 
 ### 💬 Ask Me About:
-- **Flutter**, **PHP**, **Java**, **MySQL**, and **WordPress** – feel free to reach out for guidance!
+- **Flutter & Mobile Development, MERN Stack, React.js, Node.js, PHP, MySQL,** and **WordPress**
+- **Full-stack development** and **API integration**
+- **Project management** and **cross-functional team leadership**
 
 ---
 
@@ -30,7 +36,7 @@
 ---
 
 ### 📄 Check My Resume:
-- [Download My Resume](https://drive.google.com/file/d/10KEhx6VcQWxknRzQIAuedwWyUONLcgb-/view?usp=drivesdk)
+- [Download My Resume](https://drive.google.com/file/d/170n2k5qiFyw47ioor_F7bhqw_ralWApq/view?usp=sharing)
 
 ---
 
@@ -40,10 +46,10 @@
 ---
 
 ### 🌐 Connect With Me:
-
 <p align="center">
   <a href="https://linkedin.com/in/mohamedfahham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedfahham" height="30" width="40" /></a>
   <a href="https://instagram.com/mhmd_fahham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmd_fahham" height="30" width="40" /></a>
+  <a href="https://medium.com/@fahhamohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fahhamohamed" height="30" width="40" /></a>
 </p>
 
 ---
