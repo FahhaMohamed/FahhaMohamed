@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-fahham-8b4b761ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedfahham" height="30" width="40" /></a>
   <a href="https://instagram.com/mhmd_fahham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmd_fahham" height="30" width="40" /></a>
-  <a href="https://medium.com/@fahhamohamed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fahhamohamed" height="30" width="40" /></a>
+  <a href="https://medium.com/@fahhamohmad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fahhamohamed" height="30" width="40" /></a>
 </p>
 
 ---
